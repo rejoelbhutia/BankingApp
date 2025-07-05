@@ -33,7 +33,7 @@ public class CreateAccountScreen {
 
     //submit button
 
-    Button createButton = new Button("Create");
+    Button createButton = new Button("Create Account");
     createButton.setBounds(150, 250, 100, 30);
 
 
